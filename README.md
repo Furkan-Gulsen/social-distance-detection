@@ -5,7 +5,7 @@
 > It is a mid-level project that measures the social distance between people in the video through YOLOv3, OpenCV and algorithms, and shows this visually and numerically.
 
 - **Language Used:** Python
-- **Libraries Used :** YOLOv3, OpenCV, Numpu, time
+- **Libraries Used :** YOLOv3, OpenCV, Numpy, time
 - **Video Duration :** 24 seconds
 - **Number of Rows :** 250 rows
 - **Processing Time :** 90 seconds
